@@ -16,5 +16,12 @@ Mikhail Kurinnoi (icons, mission_icons and weapon_icons)
 #### 3D
 
 Oleg Linkov</br>
+Egor Kurteanu (base_parts)</br>
 Mikhail Kurinnoi (missile_trails, skyboxes and tiled_backgrounds)
 ###### * skyboxes and backgrounds generated with Spacescape (https://sourceforge.net/projects/spacescape).
+
+#### sketches
+Tatiana Savitskaya (buttons, cursors, title, windows)</br>
+Oleg Linkov (mines, launchers, rockets, systems)</br>
+Egor Kurteanu (pirate_base)</br>
+Mikhail Kurinnoi (pirate_base/base1.jpg, pirate_base/base2.jpg)
