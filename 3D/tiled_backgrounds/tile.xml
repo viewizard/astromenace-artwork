@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<spacescapelayers>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <ditherAmount>0.02</ditherAmount>
+        <gain>1</gain>
+        <innerColor>0.494118 0.494118 0.494118 1</innerColor>
+        <lacunarity>1.5</lacunarity>
+        <name>Blue Nebula</name>
+        <noiseType>ridged</noiseType>
+        <octaves>7</octaves>
+        <offset>1</offset>
+        <outerColor>0 0 0 1</outerColor>
+        <powerAmount>0.6</powerAmount>
+        <previewTextureSize>1024</previewTextureSize>
+        <scale>5</scale>
+        <seed>2</seed>
+        <shelfAmount>0.1</shelfAmount>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>noise</type>
+    </layer>
+</spacescapelayers>

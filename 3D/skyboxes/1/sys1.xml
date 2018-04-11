@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<spacescapelayers>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <ditherAmount>0.03</ditherAmount>
+        <gain>0.5</gain>
+        <innerColor>0.341176 0.698039 0.988235 1</innerColor>
+        <lacunarity>2</lacunarity>
+        <name>Pink Purple Nebula</name>
+        <noiseType>fbm</noiseType>
+        <octaves>8</octaves>
+        <offset>1</offset>
+        <outerColor>0.101961 0 0.345098 1</outerColor>
+        <powerAmount>1</powerAmount>
+        <previewTextureSize>256</previewTextureSize>
+        <scale>1</scale>
+        <seed>0</seed>
+        <shelfAmount>0</shelfAmount>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>noise</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one_minus_src_alpha</destBlendFactor>
+        <ditherAmount>0.01</ditherAmount>
+        <gain>0.6</gain>
+        <innerColor>0 0 0 1</innerColor>
+        <lacunarity>2.2</lacunarity>
+        <name>Black Ridged Nebula Mask</name>
+        <noiseType>ridged</noiseType>
+        <octaves>8</octaves>
+        <offset>1</offset>
+        <outerColor>0 0 0 1</outerColor>
+        <powerAmount>0.8</powerAmount>
+        <previewTextureSize>512</previewTextureSize>
+        <scale>1</scale>
+        <seed>0</seed>
+        <shelfAmount>0.4</shelfAmount>
+        <sourceBlendFactor>src_alpha</sourceBlendFactor>
+        <type>noise</type>
+    </layer>
+    <layer>
+        <destBlendFactor>src_alpha</destBlendFactor>
+        <ditherAmount>0.03</ditherAmount>
+        <gain>0.5</gain>
+        <innerColor>0 0 0 1</innerColor>
+        <lacunarity>2</lacunarity>
+        <name>Black Smooth Nebula Mask</name>
+        <noiseType>fbm</noiseType>
+        <octaves>6</octaves>
+        <offset>1</offset>
+        <outerColor>0 0 0 1</outerColor>
+        <powerAmount>1</powerAmount>
+        <previewTextureSize>64</previewTextureSize>
+        <scale>1</scale>
+        <seed>0</seed>
+        <shelfAmount>0.3</shelfAmount>
+        <sourceBlendFactor>one_minus_src_alpha</sourceBlendFactor>
+        <type>noise</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <ditherAmount>0.03</ditherAmount>
+        <gain>0.6</gain>
+        <innerColor>0.133333 0.27451 0.407843 1</innerColor>
+        <lacunarity>2.24</lacunarity>
+        <name>Blue Nebula</name>
+        <noiseType>ridged</noiseType>
+        <octaves>7</octaves>
+        <offset>1</offset>
+        <outerColor>0 0 0 1</outerColor>
+        <powerAmount>1</powerAmount>
+        <previewTextureSize>512</previewTextureSize>
+        <scale>1</scale>
+        <seed>2</seed>
+        <shelfAmount>0.8</shelfAmount>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>noise</type>
+    </layer>
+    <layer>
+        <destBlendFactor>one</destBlendFactor>
+        <ditherAmount>0.03</ditherAmount>
+        <gain>0.6</gain>
+        <innerColor>0.572549 0.980392 1 1</innerColor>
+        <lacunarity>2.25</lacunarity>
+        <name>Yellow Inner Nebula</name>
+        <noiseType>ridged</noiseType>
+        <octaves>7</octaves>
+        <offset>1</offset>
+        <outerColor>0 0 0 1</outerColor>
+        <powerAmount>0.3</powerAmount>
+        <previewTextureSize>1024</previewTextureSize>
+        <scale>1</scale>
+        <seed>2</seed>
+        <shelfAmount>0.9</shelfAmount>
+        <sourceBlendFactor>one</sourceBlendFactor>
+        <type>noise</type>
+    </layer>
+</spacescapelayers>
