@@ -11,7 +11,7 @@ Project: https://github.com/viewizard/astromenace
 
 Tatiana Savitskaya</br>
 Mikhail Kurinnoi (icons, mission_icons and weapon_icons)
-###### * all icons rendered with game engine.
+###### * all icons rendered with game engine, 3D models created by Oleg Linkov and Max Shelekhov.
 
 #### 3D
 
