@@ -1,6 +1,6 @@
 # AstroMenace Artwork
 
-AstroMenace - Hardcore 3D space shooter with spaceship upgrade possibilities.
+AstroMenace - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities.
 
 Web Site: http://www.viewizard.com/</br>
 Project: https://github.com/viewizard/astromenace
@@ -23,15 +23,15 @@ Project: https://github.com/viewizard/astromenace
 #### 2D
 
 Tatiana Savitskaya</br>
-Mikhail Kurinnoi (icons, mission_icons and weapon_icons)
-###### * all icons rendered with game engine, 3D models created by Oleg Linkov and Max Shelekhov.
+Mikhail Kurinnoi (icons, mission_icons and weapon_icons)* </br>
+ <sub>* all icons rendered with game engine, 3D models created by Oleg Linkov and Max Shelekhov.
 
 #### 3D
 
 Oleg Linkov</br>
 Egor Kurteanu (base_parts)</br>
-Mikhail Kurinnoi (missile_trails, skyboxes and tiled_backgrounds)
-###### * skyboxes and backgrounds generated with Spacescape (https://sourceforge.net/projects/spacescape).
+Mikhail Kurinnoi (missile_trails, skyboxes and tiled_backgrounds)** </br>
+ <sub>** skyboxes and backgrounds generated with Spacescape (https://sourceforge.net/projects/spacescape).
 
 #### sketches
 Tatiana Savitskaya (buttons, cursors, title, windows)</br>
