@@ -2,7 +2,7 @@
 
 AstroMenace - Hardcore 3D space scroll-shooter with spaceship upgrade possibilities.
 
-Web Site: http://www.viewizard.com/</br>
+Web Site: https://viewizard.com/</br>
 Project: https://github.com/viewizard/astromenace
 
 <p align="center">
